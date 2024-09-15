@@ -1,0 +1,20 @@
+/* Стили для отзывов */
+.reviews {
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+
+.reviews__title {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.reviews__list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.reviews__item {
+    font-style: italic;
+}
